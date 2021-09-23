@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h4>Subscribe to XYZ news magazine emails</h4>
+    <p> Interested in receiving daily updates of all latest news ? well,now you can. and best of all,itis free</p><hr><hr>
+    <p>please fill the following boxes</p>
+    <form>
+        <label for="fname">First Name:</label> 
+        <input type="text" value="First Name" id="fname" >
+         <br>
+        <label for="lname">Last Name:</label>
+        <input type="text" value="Last Name" id="lname" >
+        <br>
+        <label for="bname">business:</label>
+        <input type="text" value="business" id="bname" >
+        <p>we must have a corect email address</p>
+        <label for="ename">Email:</label>
+        <input type="text" value="Email" id="ename" ><br>
+        <p>how di you hear about us</p>
+
+        <input type="radio" name="here on the web" id="onweb"> 
+        <label for="onweb">here on the web</label>
+        <input type="radio" name="in a magazine" id="magazine"> 
+        <label for="magazine">in a magazine</label><br>
+
+        <p>would you like to be on our regular mail list</p>
+        <label><input type="checkbox" checked>: Yes we love junk emails</label> 
+ </form>
+</body>
+</html>
