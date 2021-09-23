@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="yellow">
+    <h1><b>this is first line</b></h1>
+    <h2><i>this is second line</i></h2>
+    <h3><u>this is third line</u></h3>
+    <hr> </hr>
+    <marquee behavior="sliding" direction="right"> hello</marquee>
+     <p style="color: blue;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae quis, asperiores est quia, necessitatibus at unde laudantium minus nam voluptatibus voluptatem ipsam recusandae eaque odio quae voluptatum et fugiat rem.</p>
+     <p style="font-size: larger;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit aspernatur sequi facere, eligendi quis odit voluptate atque corporis ratione temporibus reprehenderit ipsam numquam nesciunt hic earum est maiores porro animi.</p>
+     <p style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">hello</p>
+     <hr></hr>
+     <blink> hello </blink>
+</body>
+</html>
