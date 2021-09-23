@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<t>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <td>name</td>
+            <td>roll no</td>
+            <td>grade</td>
+        </tr>
+        <tr>
+        <td>aman</td>
+        <td>01</td>
+        <td>A</td>
+        </tr>
+        <tr>
+            <td>abhishek</td>
+            <td>02</td>
+            <td>B</td>
+         </tr>
+
+         <tr>
+            <td>arpit</td>
+            <td>03</td>
+            <td>A</tr>
+            </tr>
+
+    </table>
+</body>
+</html>
